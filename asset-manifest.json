@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/website/static/css/main.75b1b56c.chunk.css",
+    "main.js": "/website/static/js/main.8e79a626.chunk.js",
+    "main.js.map": "/website/static/js/main.8e79a626.chunk.js.map",
+    "runtime-main.js": "/website/static/js/runtime-main.9b825fe6.js",
+    "runtime-main.js.map": "/website/static/js/runtime-main.9b825fe6.js.map",
+    "static/css/2.3cf5d70f.chunk.css": "/website/static/css/2.3cf5d70f.chunk.css",
+    "static/js/2.d3aa993a.chunk.js": "/website/static/js/2.d3aa993a.chunk.js",
+    "static/js/2.d3aa993a.chunk.js.map": "/website/static/js/2.d3aa993a.chunk.js.map",
+    "index.html": "/website/index.html",
+    "precache-manifest.d755c3a5f665d91be69baafa4f6828ec.js": "/website/precache-manifest.d755c3a5f665d91be69baafa4f6828ec.js",
+    "service-worker.js": "/website/service-worker.js",
+    "static/css/2.3cf5d70f.chunk.css.map": "/website/static/css/2.3cf5d70f.chunk.css.map",
+    "static/css/main.75b1b56c.chunk.css.map": "/website/static/css/main.75b1b56c.chunk.css.map",
+    "static/js/2.d3aa993a.chunk.js.LICENSE.txt": "/website/static/js/2.d3aa993a.chunk.js.LICENSE.txt",
+    "static/media/IMG_1189.jpeg": "/website/static/media/IMG_1189.1bfa7192.jpeg",
+    "static/media/a118.png": "/website/static/media/a118.4ee2ee71.png",
+    "static/media/jo-screenshot.png": "/website/static/media/jo-screenshot.2a8b5d93.png",
+    "static/media/jo-screenshot2.png": "/website/static/media/jo-screenshot2.629d2607.png",
+    "static/media/jothefish.png": "/website/static/media/jothefish.1183c0b4.png",
+    "static/media/me.jpg": "/website/static/media/me.ceed61a2.jpg",
+    "static/media/purito-rebrand.png": "/website/static/media/purito-rebrand.c10ddc4f.png",
+    "static/media/purito-rebrand2.png": "/website/static/media/purito-rebrand2.bf5b5006.png",
+    "static/media/purito-rebrand3.png": "/website/static/media/purito-rebrand3.6a309844.png",
+    "static/media/purito-rebrand4.png": "/website/static/media/purito-rebrand4.6855895b.png",
+    "static/media/purito1.png": "/website/static/media/purito1.c10ddc4f.png",
+    "static/media/wikalang-01-01.png": "/website/static/media/wikalang-01-01.e571fad4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b825fe6.js",
+    "static/css/2.3cf5d70f.chunk.css",
+    "static/js/2.d3aa993a.chunk.js",
+    "static/css/main.75b1b56c.chunk.css",
+    "static/js/main.8e79a626.chunk.js"
+  ]
+}
