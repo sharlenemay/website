@@ -1,6 +1,6 @@
 {
-  "homepage": "http://sharlenemay.github.io/website",
-  "name": "website",
+  "homepage": "http://sharlenemay.github.io/",
+  "name": "sharlenemay.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
