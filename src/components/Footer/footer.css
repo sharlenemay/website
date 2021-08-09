@@ -1,0 +1,10 @@
+.footer {
+    padding: 2vh 4vw 0vh 4vw;
+    bottom: 0;
+    width: 100%;
+    /* text-align: center; */
+}
+hr {
+    margin-top: 0 !important;
+    color: black;
+}
