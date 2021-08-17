@@ -12,7 +12,7 @@ export default function About() {
         </Col>
         <Col s={12} sm={12} md={12} lg={12} xl={6}>
           <h3>
-            Digital Freelancer dedicated to creating meaningful user
+            Digital Marketing Specialist dedicated to creating meaningful user
             experiences through inclusive design and conscious research.
           </h3>
           <hr />
